@@ -2116,7 +2116,7 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/anoswap",
+                href: "https://t.me/anoswapgroup",
             },
             // {
             //   label: "Bahasa Indonesia",
@@ -2160,7 +2160,7 @@ var socials = [
             // },
             {
                 label: "Announcements",
-                href: "https://t.me/anoswapgroup",
+                href: "https://t.me/anoswap",
             },
         ],
     },

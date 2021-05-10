@@ -120,7 +120,7 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/anoswap",
+        href: "https://t.me/anoswapgroup",
       },
       // {
       //   label: "Bahasa Indonesia",
@@ -164,7 +164,7 @@ export const socials = [
       // },
       {
         label: "Announcements",
-        href: "https://t.me/anoswapgroup",
+        href: "https://t.me/anoswap",
       },
       // {
       //   label: "Whale Alert",
